@@ -1,19 +1,19 @@
 function paragraphSelector() {
-  $('p');
+  $('p')
 }
 
 function lastImageSelector() {
-  $('img:last');
+  $('img:last')
 }
 
 function ninjaBabySelector() {
-  $('#baby-ninja');
+  $('#baby-ninja')
 }
 
 function divSelector() {
-  $('div.pics');
+  $('div.pics')
 }
 
 function firstListItem() {
-  $('#pic-list:first');
+  $('#pic-list:first')
 }
