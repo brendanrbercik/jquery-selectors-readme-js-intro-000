@@ -3,5 +3,7 @@ function paragraphSelector() {
 
   $('img:last');
 
+  $('#baby-ninja');
+
   
 }
